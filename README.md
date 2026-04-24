@@ -1,6 +1,9 @@
 # Credit_Card-Delinquency-Prediction
-This project focuses on analyzing customer financial behavior to predict credit card delinquency risk. The objective is to identify high-risk customers using historical financial and demographic data and provide actionable insights for better credit decision-making.
-Credit Card Delinquency Prediction and Risk Analysis
+## 📊 Tableau Dashboard
+
+Interactive Dashboard for Credit Card Delinquency Analysis:
+
+🔗 [https://public.tableau.com/app/profile/anusha.eraka/viz/Credit_CardDelinquencyRate/Dashboard1](https://public.tableau.com/app/profile/anusha.eraka/viz/Credit_CardDelinquencyRate/Dashboard1?publish=yes)
 
 This project focuses on analyzing customer financial behavior to predict credit card delinquency risk. The objective is to identify high-risk customers using historical financial and demographic data and provide actionable insights for better credit decision-making.
 
